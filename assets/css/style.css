@@ -1,11 +1,3 @@
-/**
-* Template Name: iPortfolio
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -527,7 +519,18 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Portfolio
+# Projects
+--------------------------------------------------------------*/
+.projects {
+  margin-bottom: 30px;
+}
+
+.project-container .container-bg {
+  background-color: #ff0000;
+}
+
+/*--------------------------------------------------------------
+# portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
@@ -628,7 +631,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
